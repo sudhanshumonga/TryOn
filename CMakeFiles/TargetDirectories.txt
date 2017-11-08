@@ -1,0 +1,2 @@
+/home/sudhanshu/Projects/TryOn/dlib_build/CMakeFiles/dlib.dir
+/home/sudhanshu/Projects/TryOn/CMakeFiles/tryon.dir
